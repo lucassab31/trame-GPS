@@ -8,10 +8,6 @@ Quatres étapes importantes :
 * Convertir les données dans le format souhaité
 * Afficher ces données
 
-<<<<<<< HEAD
 Ce projet a été réalisé par CERVERA Maxime et SABATHE LUCAS dans le cadre de travaux données à l'IUT Paul Sabatier département informatique
 
-test push
-=======
-Ce projet a été réalisé par CERVERA Maxime et SABATHE LUCAS dans le cadre de travaux donnés à l'IUT Paul Sabatier département informatique
->>>>>>> 8786f0d40adb786efc28967d3a7a1cbf210afc15
+test push ça marche ?
