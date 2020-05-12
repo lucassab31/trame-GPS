@@ -9,5 +9,3 @@ Quatres étapes importantes :
 * Afficher ces données
 
 Ce projet a été réalisé par CERVERA Maxime et SABATHE LUCAS dans le cadre de travaux données à l'IUT Paul Sabatier département informatique
-
-test push ça marche ?
