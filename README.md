@@ -8,4 +8,4 @@ Quatres étapes importantes :
 * Convertir les données dans le format souhaité
 * Afficher ces données
 
-Ce projte a été réalisé par CERVERA Maxime et SABATHE LUCAS dans le cadre de travaux données à l'IUT Paul Sabatier département informatique
+Ce projte a été réalisé par CERVERA Maxime et SABATHE LUCAS dans le cadre de travaux donnés à l'IUT Paul Sabatier département informatique
