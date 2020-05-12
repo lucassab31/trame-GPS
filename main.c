@@ -1,19 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+#include "main.h"
 
-int verifierTrame(char trame[], int size);
-int checksum(const char *s);
-
-void convertirCoordonnee(char** extrait);
-void convertirlatitude(char *latitude);
-void convertirlongitude(char *longitude);
-
-int extraireTrame(char* trame, char** extrait) ;
-
-
-
-void formatHeure(char *heure);
 
 void main() {
     char trame[] = "$GPGGA,092750.000,5321.6802,N,00630.3372,W,1,8,1.03,61.7,M,55.2,M,,*76";
