@@ -9,9 +9,9 @@ Quatres étapes importantes :
 * Afficher ces données
 
 <<<<<<< HEAD
-Ce projte a été réalisé par CERVERA Maxime et SABATHE LUCAS dans le cadre de travaux données à l'IUT Paul Sabatier département informatique
+Ce projet a été réalisé par CERVERA Maxime et SABATHE LUCAS dans le cadre de travaux données à l'IUT Paul Sabatier département informatique
 
 test push
 =======
-Ce projte a été réalisé par CERVERA Maxime et SABATHE LUCAS dans le cadre de travaux donnés à l'IUT Paul Sabatier département informatique
+Ce projet a été réalisé par CERVERA Maxime et SABATHE LUCAS dans le cadre de travaux donnés à l'IUT Paul Sabatier département informatique
 >>>>>>> 8786f0d40adb786efc28967d3a7a1cbf210afc15
